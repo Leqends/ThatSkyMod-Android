@@ -4,7 +4,7 @@
   <p>
     维护者 Maintainer：<b>skykn</b> · <a href="mailto:ykncn@msn.com">ykncn@msn.com</a>
     <br />
-    当前版本 Current build：<b>v0.34.5</b> · 适配游戏版本 Game version：<b>Sky 0.34.5</b>
+    当前版本 Current build：<b>v0.35.1</b> · 适配游戏版本 Game version：<b>Sky 0.35.1</b>
   </p>
 </div>
 
@@ -17,8 +17,8 @@
 
 
 - **全量内存偏移更新 / Full memory offset refresh**
-  - 中文：全部游戏内存偏移已更新至 0.34.5，并统一收敛到单一偏移定义文件；后续游戏升级只需维护该文件即可完成适配。
-  - English: All game memory offsets have been updated for 0.34.5 and consolidated into a single offset definition file, so adapting to future game updates only requires editing that one file.
+  - 中文：全部游戏内存偏移已更新至 0.35.1，并统一收敛到单一偏移定义文件；后续游戏升级只需维护该文件即可完成适配。
+  - English: All game memory offsets have been updated for 0.35.1 and consolidated into a single offset definition file, so adapting to future game updates only requires editing that one file.
 
 - **烛火 / 光翼 / 染料 ESP 点位修复 / Candle, wing buff and dye ESP fixes**
   - 中文：0.34.5 调整了烛火、光翼与染料实体的数据结构，导致相关 ESP 点位为空。已改用新的数据来源，烛火、光翼与染料点位可正常显示，自动收集功能恢复正常。
